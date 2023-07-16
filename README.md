@@ -16,3 +16,19 @@ fun of cook for all people
  - user can post recipe
  - user can find recipe
  - user can evaluate recipe
+
+## datas
+ - User
+  - Name: string
+  - Age: integer
+  - Followers: string[]
+ - Recipe
+  - Id: uuid
+  - Efficacy: string
+  - ingredients: string[]
+  - description: string
+
+## assumption
+ - 10,000MAU
+ - a user post 2 recipes per a month
+ - a user find and evaluate 10 recipes per a day
