@@ -39,3 +39,6 @@ fun of cook for all people
 ## n2n test: playwright
 ## unit test: jest
 ## DB: postgreSQL
+
+# operation of repository
+monorepo
