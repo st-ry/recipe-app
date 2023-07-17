@@ -32,3 +32,10 @@ fun of cook for all people
  - 10,000MAU
  - a user post 2 recipes per a month
  - a user find and evaluate 10 recipes per a day
+
+# tech stack
+## frondend: TypeScript(React)
+## backend: TypeScript
+## n2n test: playwright
+## unit test: jest
+## DB: postgreSQL
