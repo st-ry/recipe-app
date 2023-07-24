@@ -36,9 +36,16 @@ fun of cook for all people
 # tech stack
 ## frondend: TypeScript(React)
 ## backend: TypeScript
+### ORM: Prisma
 ## n2n test: playwright
 ## unit test: jest
 ## DB: postgreSQL
 
 # operation of repository
 monorepo
+
+# load map
+ - prepare dev environment
+  - linter
+  - formatter
+ - feature posting recipe
