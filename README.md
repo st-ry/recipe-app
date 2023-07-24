@@ -43,3 +43,9 @@ fun of cook for all people
 
 # operation of repository
 monorepo
+
+# load map
+ - prepare dev environment
+  - linter
+  - formatter
+ - feature posting recipe
