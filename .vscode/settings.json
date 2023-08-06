@@ -1,5 +1,4 @@
 {
-    "eslint.workingDirectories": [
-        "./back/recipe-app"
-    ],
-  }
+  "editor.tabSize": 2,
+  "eslint.workingDirectories": ["./back/recipe-app"]
+}
