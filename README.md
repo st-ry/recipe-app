@@ -35,7 +35,7 @@ fun of cook for all people
 
 # tech stack
 ## frondend: TypeScript(React)
-## backend: TypeScript
+## backend: Nest.js(TypeScript)
 ### ORM: Prisma
 ## n2n test: playwright
 ## unit test: jest
